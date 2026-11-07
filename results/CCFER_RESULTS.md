@@ -1,7 +1,7 @@
 # CC-FER + RAF-DB results (current)
 
 Date: 2026-11-07  
-Status: RAF-DB 5 seeds done; CALE 1 seed done, CALE 3 seeds running.
+Status: RAF-DB 5 seeds; CC-FER-M 3 seeds; CC-FER-U 3 seeds (SE: 2 seeds); ResNet-34/CBAM 1 seed (screening). No jobs running.
 
 ---
 
@@ -72,5 +72,4 @@ This is a **benchmark + controlled study**, not a SOTA method paper.
 
 ## 4. What is still running
 
-CALE 3 seeds for Euler / TPR / SE, batch_size=128, workers=8.  
-When done: mean±std per condition, paired tests, final table.
+All core runs are finished. ResNet-34 and CBAM remain one-seed screening results; they can be extended to three seeds before submission if desired.
