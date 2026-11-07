@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, the CC-FER protocol, or the weights, please cite this work."
+title: "Rethinking Residual Geometry for Facial Expression Recognition: A Cross-Condition Benchmark and Controlled Study"
+authors:
+  - family-names: "Yuan"
+    given-names: "Weihang"
+    affiliation: "Beijing Forestry University"
+    email: "yuanweihang810@gmail.com"
+year: 2026
+url: "https://github.com/yuanweihang810/A-Cross-Condition-Benchmark-and-Controlled"
