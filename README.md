@@ -92,7 +92,7 @@ The repository also releases **CC-FER**, an instance-disjoint cross-condition pr
     |-- weights/                    # selected checkpoints (see weights/README.md)
     |-- results/                    # summary tables and prediction analysis
     |-- figures/                    # architecture, concept, results
-    |-- docs/                       # paper PDFs (TVC and IEEE Access versions)
+    |-- docs/                       # manuscript PDFs
     |-- data/README.md              # dataset links and layout
     |-- scripts/                    # example training commands
 
@@ -242,12 +242,12 @@ The checkpoints store model, variant, args, and classes. Load with:
 
 ---
 
-## Papers
+## Manuscript
 
-- docs/paper_tvc.pdf — The Visual Computer version (12 pages);
-- docs/paper_ieee_access.pdf — IEEE Access fallback version (6 pages).
+- docs/paper.pdf — full manuscript (13 pages);
+- docs/paper_two_column.pdf — two-column version (7 pages).
 
-The TVC version is the primary submission. The IEEE Access version is a content-ready fallback; if the portal requires the official ieeeaccess.cls, only the preamble/author block needs conversion.
+Both files contain the same results. The two-column version is provided for convenience only.
 
 ---
 
